@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6c10400be7a8c043af55cfb1ede8d22, type: 3}
+  m_Name: IceCoffee_Product
+  m_EditorClassIdentifier: Assembly-CSharp::BannyCafe.Infrastructure.UnityIntegration.ProductSO
+  _id: 6e589396-f522-4497-aee6-14d4e9e04526
+  _name: Ice Coffe
+  Recipe: {fileID: 11400000, guid: bed951cbb643cc54aac78272624ad061, type: 2}

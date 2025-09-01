@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6c10400be7a8c043af55cfb1ede8d22, type: 3}
+  m_Name: Coffee_Product
+  m_EditorClassIdentifier: Assembly-CSharp::BannyCafe.Infrastructure.UnityIntegration.ProductSO
+  _id: b5ba7a78-5e46-4a00-b527-d99033103818
+  _name: Coffee
+  Recipe: {fileID: 11400000, guid: c0335c2be15e6ae4787f983f412a11c3, type: 2}
