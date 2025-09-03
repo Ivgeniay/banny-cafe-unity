@@ -1,7 +1,31 @@
 fileFormatVersion: 2
-guid: b5953cf34e9a8fa40b68a8739664e5f2
+guid: 6f1e7e969ea041f468b0cde01a05167a
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 797167066033628521
+    second: plants_pack_one_0
+  - first:
+      213: 7263492343085809879
+    second: plants_pack_one_1
+  - first:
+      213: -5921770004154945379
+    second: plants_pack_one_2
+  - first:
+      213: -8131881624180438765
+    second: plants_pack_one_3
+  - first:
+      213: 1557874412790676141
+    second: plants_pack_one_4
+  - first:
+      213: -3097919484074628557
+    second: plants_pack_one_5
+  - first:
+      213: -1732041810340566406
+    second: plants_pack_one_6
+  - first:
+      213: 7770667684752021087
+    second: plants_pack_one_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -34,12 +58,12 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 0
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -72,7 +96,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -97,199 +121,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: table_tilemap_0
+      name: plants_pack_one_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
-        width: 16
-        height: 16
+        y: 492
+        width: 235
+        height: 417
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b484858e700ab8747a9ed9bfdd385a50
-      internalID: -20807010
+      spriteID: 9652395193b101b00800000000000000
+      internalID: 797167066033628521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: table_tilemap_1
+      name: plants_pack_one_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
+        x: 251
+        y: 440
+        width: 288
+        height: 469
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 14e0997454312694b869932b0513ce80
-      internalID: -1767110697
+      spriteID: 7d0466a6dcb1dc460800000000000000
+      internalID: 7263492343085809879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: table_tilemap_2
+      name: plants_pack_one_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
+        x: 575
+        y: 510
+        width: 300
+        height: 399
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: b9e2fff60cccbaa40b484712d43314a8
-      internalID: -399789814
+      spriteID: d90f7cc5e85a1dda0800000000000000
+      internalID: -5921770004154945379
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: table_tilemap_3
+      name: plants_pack_one_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
+        x: 916
+        y: 586
+        width: 309
+        height: 323
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bfaafbebdcf02d040b80292404bfa401
-      internalID: 589297138
+      spriteID: 319c2335fb0c52f80800000000000000
+      internalID: -8131881624180438765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: table_tilemap_4
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad357cf328887794db75920dac95eb08
-      internalID: 527710019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: table_tilemap_5
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e94b984d95ccfe447a925743b4135a0a
-      internalID: -610708945
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: table_tilemap_6
+      name: plants_pack_one_4
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
-        height: 16
+        width: 353
+        height: 417
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 098b9f0b02759bd4d890900201b72be7
-      internalID: 91318665
+      spriteID: daafe03468eae9510800000000000000
+      internalID: 1557874412790676141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: table_tilemap_7
+      name: plants_pack_one_5
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
+        x: 392
+        y: 102
+        width: 190
+        height: 296
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4d129eda1587bba4a8ee7bbcef60b175
-      internalID: -1031155551
+      spriteID: 33a68f884aaf105d0800000000000000
+      internalID: -3097919484074628557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: table_tilemap_8
+      name: plants_pack_one_6
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
+        x: 629
+        y: 38
+        width: 230
+        height: 360
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4a0ff2cf153af9d4293a3451d9363742
-      internalID: 78156842
+      spriteID: a7aa686762d86f7e0800000000000000
+      internalID: -1732041810340566406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants_pack_one_7
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 81
+        width: 228
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f565049a615f6db60800000000000000
+      internalID: 7770667684752021087
       vertices: []
       indices: 
       edges: []
@@ -298,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b3b967a1185d8a245a3bd86b5f58bf48
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -306,19 +308,16 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      table_tilemap_0: -20807010
-      table_tilemap_1: -1767110697
-      table_tilemap_2: -399789814
-      table_tilemap_3: 589297138
-      table_tilemap_4: 527710019
-      table_tilemap_5: -610708945
-      table_tilemap_6: 91318665
-      table_tilemap_7: -1031155551
-      table_tilemap_8: 78156842
+      plants_pack_one_0: 797167066033628521
+      plants_pack_one_1: 7263492343085809879
+      plants_pack_one_2: -5921770004154945379
+      plants_pack_one_3: -8131881624180438765
+      plants_pack_one_4: 1557874412790676141
+      plants_pack_one_5: -3097919484074628557
+      plants_pack_one_6: -1732041810340566406
+      plants_pack_one_7: 7770667684752021087
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
